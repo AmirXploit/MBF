@@ -2,7 +2,7 @@
 #coding=utf-8
 
 ################################################################
-# CODING BY MR JEECK X MR RISKY X XENZI X GANZ X YUMASA X ROMI #
+# CODING BY MR AMIR X MR ANGGA X ZARR X MARS X TEPOS X ROMI #
 #      JANGAN BLANG LU ITU MASTAH KALO RECOD TOOLS INI         #
 ################################################################
 #
@@ -82,8 +82,8 @@ def banner():
  {B}|   {war_dom} /_/       /_____/  \____/   /_/ |_|  /_/  |_|\____/   /_/ |_|     {B}|
 {P}[•]{B}--------------------------------------------------------------------{P}[•]
 {B} |
-{P}[•]{B}-----> {P}AUTHOR : {B}MR.JEECK X NANO {P}MR.RISKY
-{P}[•]{B}-----> {P}GITHUB : {B}https://github.com/Jeeck-XN
+{P}[•]{B}-----> {P}AUTHOR : {B}MR.AMIR X MARSXPLOIT {P}MR.ZARR
+{P}[•]{B}-----> {P}GITHUB : {B}https://github.com/AmirXploit
 {P}[•]{B}-----> {p}FACBOOK : {B}100032577396395
 {B} |""")
 
